@@ -143,7 +143,7 @@ export default App;
 ```
 
 ## OUTPUT
-![Uploading image.png…]()
+<img width="1918" height="1082" alt="image" src="https://github.com/user-attachments/assets/35ab8039-60c0-47e6-b4a6-19574e2482c7" />
 
 
 ## RESULT
